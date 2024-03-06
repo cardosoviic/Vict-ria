@@ -1,0 +1,10 @@
+.menu {
+      display: flex;
+      align-items: center;
+}
+
+.menu img {
+      max-width: 15%;
+      margin-right: 30px;
+      
+}
